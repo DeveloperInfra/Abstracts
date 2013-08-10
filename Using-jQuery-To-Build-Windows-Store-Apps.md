@@ -4,7 +4,10 @@ You can build Windows Store Apps with the JavaScript with HTML5 and Cascading St
 
 ### Downloads:
 * Slides - [https://speakerdeck.com/developerinfra/using-jquery-to-build-windows-store-apps](https://speakerdeck.com/developerinfra/using-jquery-to-build-windows-store-apps)
-* Source Code - [https://github.com/DeveloperInfra/HelloWorld-Win8-UsingJQuery](https://github.com/DeveloperInfra/HelloWorld-Win8-UsingJQuery)
+* Source Code
+  * [https://github.com/DeveloperInfra/HelloWorld-Win8-UsingJQuery](https://github.com/DeveloperInfra/HelloWorld-Win8-UsingJQuery)
+  * [https://github.com/DeveloperInfra/todo-poc](https://github.com/DeveloperInfra/todo-poc)
+  * [https://gist.github.com/DeveloperInfra/6201819](https://gist.github.com/DeveloperInfra/6201819)
 
 ### Resources:
 * [Start Building](http://build.windowsstore.com/)
