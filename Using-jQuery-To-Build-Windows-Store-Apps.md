@@ -1,4 +1,4 @@
-# Using jQuery To Build Windows Store Apps!
+# Using jQuery To Build Windows Store Apps
 
 You can build Windows Store Apps with the JavaScript with HTML5 and Cascading Style Sheets (CSS) template, and reuse your existing jQuery skills and code. But should you? How is an app different from a website? In this session, I’ll answer these questions and also share some best tips and pragmatic advice for using jQuery in Windows Store apps.
 
