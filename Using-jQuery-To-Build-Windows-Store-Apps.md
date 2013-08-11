@@ -20,7 +20,7 @@ You can build Windows Store Apps with the JavaScript with HTML5 and Cascading St
 
 ### Presentations:
 1. [Charlotte ALT.NET](http://www.meetup.com/CharlotteAltNet/events/119121052/) on June 11, 2013 @ 6:00 PM
-2. [Logical Advantage Lunch and Learn](http://www.logicaladvantage.com/) on June 12, 2013 @ 11:30 AM
+2. [Logical Advantage](http://www.logicaladvantage.com/) Lunch and Learn on June 12, 2013 @ 11:30 AM
 
 ### Inspiration:
 * This talk is heavily inspired by the talk Jaime Rodriguez, Microsoft Windows Evangelist, and Mike Hosteler, appendTo Founder & CEO, gave on November 2, 2012 on the fourth and last day of the Build conference titled [Writing Windows Store apps with jQuery](http://channel9.msdn.com/Events/Build/2012/3-130). In my opinion, this should have been announced in the keynote!
