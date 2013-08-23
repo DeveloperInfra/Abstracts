@@ -3,8 +3,10 @@
 You can build Windows Store apps using JavaScript and reuse your skills, existing code, and even popular frameworks. But should you? How is an app different from a website? How do you get popular JS frameworks to work without crashing your app? In this session, we will answer these questions and also share some best tips and pragmatic advice for building Windows Store apps using JavaScript.
 
 ### Downloads:
-* Slides - ...
-* Source Code - ...
+* Slides - [https://speakerdeck.com/developerinfra/build-windows-store-apps-using-javascript](https://speakerdeck.com/developerinfra/build-windows-store-apps-using-javascript)
+* Source Code
+  * [https://github.com/DeveloperInfra/Bookshelf-poc](https://github.com/DeveloperInfra/Bookshelf-poc)
+  * [https://github.com/DeveloperInfra/HelloWorld-Win8-UsingJQuery](https://github.com/DeveloperInfra/HelloWorld-Win8-UsingJQuery)
 
 ### Resources:
 * [Start Building](http://build.windowsstore.com/)
