@@ -6,6 +6,7 @@ You can build Windows Store apps using JavaScript and reuse your skills, existin
 * Slides - [https://speakerdeck.com/developerinfra/build-windows-store-apps-using-javascript](https://speakerdeck.com/developerinfra/build-windows-store-apps-using-javascript)
 * Source Code
   * [https://github.com/DeveloperInfra/Bookshelf-poc](https://github.com/DeveloperInfra/Bookshelf-poc)
+  * [https://github.com/DeveloperInfra/todo-poc](https://github.com/DeveloperInfra/todo-poc)
   * [https://github.com/DeveloperInfra/HelloWorld-Win8-UsingJQuery](https://github.com/DeveloperInfra/HelloWorld-Win8-UsingJQuery)
 
 ### Resources:
