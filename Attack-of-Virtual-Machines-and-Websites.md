@@ -16,7 +16,9 @@ Join Mark as he shows you a practical, no-BS intro to Azure from the perspective
 1. ...
 
 ### Presentations:
-1. [Atlanta Code Camp](http://atlantacodecamp.org/2014/) (Pending / Submitted)
+1. [Atlanta Code Camp 2014](http://www.atlantacodecamp.com/2014/speaker/Mark-A--Wilson) on October 11th, 2014 @ 3:50pm
+2. [Raleigh Code Camp 2014](http://codecamp.org/Raleigh) on November 8, 2014
+3. [Logical Advantage Charlotte Tech Talks](http://www.meetup.com/Logical-Advantage-Charlotte-Tech-Talks/events/212238972/) on November 18, 2014 @ 11:30 AM
 
 ### Inspiration:
 * [Scott Hanselman: "JavaScript, Virtual Machines, and the Cloud" - jQuery Conference - San Diego 2014)](http://youtu.be/KknECIHBAGE)
