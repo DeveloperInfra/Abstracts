@@ -12,7 +12,7 @@ We are not talking about a classic movie. We are also not talking about wedding 
 1. ...
 
 ### Presentations:
-1. [CodeStock](http://www.codestock.org/) (Pending / Submitted)
+1. ...
 
 ### Inspiration:
 * It's about making lasting memories!
