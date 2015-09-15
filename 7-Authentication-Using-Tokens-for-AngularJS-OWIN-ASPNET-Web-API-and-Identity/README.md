@@ -4,6 +4,7 @@ Are you interested in learning how to authenticate users in single page applicat
 
 ### Downloads:
 * Slides - https://speakerdeck.com/developerinfra/authentication-using-tokens-for-angularjs-owin-asp-dot-net-web-api-and-identity
+* Slides - https://speakerdeck.com/developerinfra/authentication-using-tokens-for-angularjs-owin-asp-dot-net-web-api-and-identity-for-logical-advantage-charlotte-tech-talks
 * Source Code - See Resources below.
 
 ### Resources:
@@ -17,7 +18,7 @@ Are you interested in learning how to authenticate users in single page applicat
 
 ### Presentations:
 1. [CodeStock](http://www.codestock.org/) on July 11, 2015 @ 1:15 PM
-2. [Logical Advantage Charlotte Tech Talks](http://www.meetup.com/Logical-Advantage-Charlotte-Tech-Talks/) on September 15, 2015 @ 11:30 AM
+2. [Logical Advantage Charlotte Tech Talks](http://www.meetup.com/Logical-Advantage-Charlotte-Tech-Talks/events/224120141/) on September 15, 2015 @ 11:30 AM
 
 ### Inspiration:
 * The countless hours/days/weeks/months it took to get this working. Security is not simple.
