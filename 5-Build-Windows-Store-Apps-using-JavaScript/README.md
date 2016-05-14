@@ -15,12 +15,10 @@ You can build Windows Store apps using JavaScript and reuse your skills, existin
 * [The basics](http://msdn.microsoft.com/en-US/windows/apps/jj679957) (getting started tutorial)
 * [Download a Virtual Machine](http://www.modern.ie/en-us/virtualization-tools#downloads). For Mac, Linux, or Windows.
 
-### Recordings:
-1. ...
 
 ### Presentations:
-1. [Atlanta Code Camp 2013](http://atlantacodecamp.org/2013/speaker/Mark-Wilson) on August 24, 2013 @ 3:50 PM
-2. [Raleigh Code Camp 2013](http://codecamp.org/Raleigh/Sessions#Build Windows Store Apps using JavaScript) on November 9, 2013 @ 1:00 PM
+1. [Atlanta Code Camp 2013](http://atlantacodecamp.org/) on August 24, 2013 @ 3:50 PM
+2. [Raleigh Code Camp 2013](http://codecamp.org/Raleigh/) on November 9, 2013 @ 1:00 PM
 
 ### Inspiration:
 * Evolving my [Using jQuery To Build Windows Store Apps](https://github.com/DeveloperInfra/Abstracts/blob/master/Using-jQuery-To-Build-Windows-Store-Apps.md) talk. I wanted to take the talk to the next logical level. It'll explain my theory/thought process in the talk so don't miss it!
