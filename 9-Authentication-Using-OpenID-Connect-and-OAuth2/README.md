@@ -5,6 +5,7 @@ Most modern applications need security. Enter OpenID Connect and OAuth 2.0. Thes
 ### Downloads:
 * Slides from CodeStock - [https://speakerdeck.com/developerinfra/authentication-using-openid-connect-and-oauth2-codestock](https://speakerdeck.com/developerinfra/authentication-using-openid-connect-and-oauth2-codestock)
 * Slides from Charlotte ALT.NET - [https://speakerdeck.com/developerinfra/authentication-using-openid-connect-and-oauth2-altnet](https://speakerdeck.com/developerinfra/authentication-using-openid-connect-and-oauth2-altnet)
+* Slides from Atlanta Code Camp 2016 - [https://speakerdeck.com/developerinfra/authentication-using-openid-connect-and-oauth2-atlanta-code-camp](https://speakerdeck.com/developerinfra/authentication-using-openid-connect-and-oauth2-atlanta-code-camp)
 * Source Code
   * [AngularJS Application](https://github.com/DeveloperInfra/IdentityServer3.Samples/tree/angular/source/JavaScript%20Walkthrough) (My contribution to IdentityServer community.)
   * [JavaScript Walkthrough](https://github.com/IdentityServer/IdentityServer3.Samples/tree/master/source/JavaScript%20Walkthrough)
@@ -20,7 +21,7 @@ Most modern applications need security. Enter OpenID Connect and OAuth 2.0. Thes
 ### Presentations:
 1. [CodeStock](http://www.codestock.org/) on July 16, 2016 @ 3:35 PM
 2. [Charlotte ALT.NET](https://www.meetup.com/CharlotteAltNet/events/231341080/) on September 13, 2016 @ 6:00 PM
-3. [Atlanta Code Camp 2016](https://www.atlantacodecamp.com/2016) on October 15, 2016 @ TBA
+3. [Atlanta Code Camp 2016](https://www.atlantacodecamp.com/2016) on October 15, 2016 @ 1:00 PM
 
 ### Inspiration:
 * A lot changes in one year.
