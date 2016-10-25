@@ -22,6 +22,7 @@ Most modern applications need security. Enter OpenID Connect and OAuth 2.0. Thes
 1. [CodeStock](http://www.codestock.org/) on July 16, 2016 @ 3:35 PM
 2. [Charlotte ALT.NET](https://www.meetup.com/CharlotteAltNet/events/231341080/) on September 13, 2016 @ 6:00 PM
 3. [Atlanta Code Camp 2016](https://www.atlantacodecamp.com/2016) on October 15, 2016 @ 1:00 PM
+4. [Logical Advantage Charlotte Tech Talks](https://www.meetup.com/Logical-Advantage-Charlotte-Tech-Talks/events/235019461/) on November 15, 2016 @ 11:30 AM
 
 ### Inspiration:
 * A lot changes in one year.
