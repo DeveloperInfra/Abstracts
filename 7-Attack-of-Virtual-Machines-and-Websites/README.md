@@ -16,7 +16,7 @@ Join Mark as he shows you a practical, no-BS intro to Azure from the perspective
 * [Building Cloud Apps with Microsoft Azure by ScottGu](http://weblogs.asp.net/scottgu/free-ebook-building-cloud-apps-with-microsoft-azure)
 
 ### Recordings:
-1. [Logical Advantage Charlotte Tech Talks](https://youtu.be/asCB_SgBxFM) on November 18, 2014 @ 11:30 AM
+1. [Logical Advantage Charlotte Tech Talks](https://youtu.be/asCB_SgBxFM?list=PL3tIxxFbTFIb93_xUncw2qwYgZUcBpX1C) on November 18, 2014 @ 11:30 AM
 
 ### Presentations:
 1. [Atlanta Code Camp 2014](http://www.atlantacodecamp.com/) on October 11th, 2014 @ 3:50 PM

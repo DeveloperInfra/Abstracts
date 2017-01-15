@@ -16,7 +16,7 @@ You can build Windows Store Apps with the JavaScript with HTML5 and Cascading St
 * [Download a Virtual Machine](http://www.modern.ie/en-us/virtualization-tools#downloads). For Mac, Linux, or Windows.
 
 ### Recordings:
-1. [Logical Advantage Lunch and Learn](http://youtu.be/8kdM7N3OPSA) on June 12, 2013 @ 11:30 AM
+1. [Logical Advantage Lunch and Learn](https://youtu.be/8kdM7N3OPSA?list=PL3tIxxFbTFIb93_xUncw2qwYgZUcBpX1C) on June 12, 2013 @ 11:30 AM
 
 ### Presentations:
 1. [Charlotte ALT.NET](http://www.meetup.com/CharlotteAltNet/events/119121052/) on June 11, 2013 @ 6:00 PM

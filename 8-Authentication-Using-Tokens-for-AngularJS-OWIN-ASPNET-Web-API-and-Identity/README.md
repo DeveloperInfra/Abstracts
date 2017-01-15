@@ -14,7 +14,7 @@ Are you interested in learning how to authenticate users in single page applicat
 * [OWIN Mixed Authentication](https://github.com/MohammadYounes/Owin-MixedAuth)
 
 ### Recordings:
-1. [Logical Advantage Charlotte Tech Talks](https://youtu.be/RiOqC8oOSl8) on September 15, 2015 @ 11:30 AM
+1. [Logical Advantage Charlotte Tech Talks](https://youtu.be/RiOqC8oOSl8?list=PL3tIxxFbTFIb93_xUncw2qwYgZUcBpX1C) on September 15, 2015 @ 11:30 AM
 
 ### Presentations:
 1. [CodeStock](http://www.codestock.org/) on July 11, 2015 @ 1:15 PM
