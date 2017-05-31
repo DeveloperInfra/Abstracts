@@ -8,7 +8,7 @@ Most modern applications need security. Enter OpenID Connect and OAuth 2.0. Thes
 * Slides from Atlanta Code Camp - [https://speakerdeck.com/developerinfra/authentication-using-openid-connect-and-oauth2-atlanta-code-camp](https://speakerdeck.com/developerinfra/authentication-using-openid-connect-and-oauth2-atlanta-code-camp)
 * Slides from Logical Advantage Charlotte Tech Talks - [https://speakerdeck.com/developerinfra/authentication-using-openid-connect-and-oauth2-logical-advantage-charlotte-tech-talks](https://speakerdeck.com/developerinfra/authentication-using-openid-connect-and-oauth2-logical-advantage-charlotte-tech-talks)
 * Source Code
-  * [AngularJS Application](https://github.com/DeveloperInfra/IdentityServer3.Samples/tree/angular/source/JavaScript%20Walkthrough) (My contribution to IdentityServer community.)
+  * [AngularJS Application](https://github.com/DeveloperInfra/IdentityServer3.Samples/tree/angular/source/JavaScript%20Walkthrough) (My future contribution to the IdentityServer community.)
   * [JavaScript Walkthrough](https://github.com/IdentityServer/IdentityServer3.Samples/tree/master/source/JavaScript%20Walkthrough)
 
 ### Resources:
