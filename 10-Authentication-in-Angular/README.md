@@ -22,6 +22,7 @@ Most modern applications require security. However, single page applications (SP
 ### Presentations:
 1. [CodeStock](http://www.codestock.org/) on May 6, 2017 @ 12:55 PM
 2. [Enterprise Developers Guild](https://www.meetup.com/Enterprise-Developers-Guild/events/236625664/) on May 23, 2017 @ 6:00 PM
+3. [Atlanta Code Camp](https://atlantacodecamp.com/2017) on September 16, 2017
 
 ### Inspiration:
 * Because I really like Angular and want to help make it easier to adopt IdentityServer.
