@@ -2,6 +2,14 @@
 
 Most modern applications require security. However, single page applications (SPAs) introduce unique challenges when it comes to authentication. In general, traditional session-based authentication isn't a good fit for stateless SPAs. A better approach is to use OAuth tokens provided by a security token service. In this talk, we are going to look at how to build Angular applications that use token-based authentication. Our security token service will be running IdentityServer, an OpenID Connect provider and OAuth 2.0 server framework for ASP.NET.
 
+> ##[End of IdentityServer3 Maintenance](https://leastprivilege.com/2017/11/06/end-of-identityserver3-maintenance/)
+> <p>On November 5, 2017, IdentityServer made the decision to stop development and maintenance of IdentityServer3. This has a couple of reasons:</p>
+> - IdentityServer4 is the better OpenID Connect and OAuth 2 implementation in every aspect
+> - ASP.NET Core 2 is now a mature platform
+> - There is only that much time you can spend on OSS development and issue tracker support, so we decided to focus on current projects which are IdentityServer4, IdentityModel2 and oidc-client.js
+> <p>This also applies to answering questions on the issue tracker – they recommend you either use <a href="https://stackoverflow.com/questions/tagged/?tagnames=identityserver3&sort=newest">StackOverflow</a> for free support, or use a <a href="https://identityserver4.readthedocs.io/en/release/intro/support.html#commercial-support">commercial</a> support option.</p>
+> <p>Security vulnerabilities will be fixed ASAP of course. Please disclose them responsibly.</p>
+
 ### Downloads:
 * Slides from CodeStock - [https://speakerdeck.com/developerinfra/authentication-in-angular-codestock](https://speakerdeck.com/developerinfra/authentication-in-angular-codestock)
 * Slides from Enterprise Developers Guild - [https://speakerdeck.com/developerinfra/authentication-in-angular-enterprise-developers-guild](https://speakerdeck.com/developerinfra/authentication-in-angular-enterprise-developers-guild)
